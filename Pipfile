@@ -1,0 +1,16 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+pandas = "*"
+requests = "*"
+
+[dev-packages]
+pylint = "*"
+autopep8 = "*"
+pytest = "*"
+
+[scripts]
+console = "python src/twitter_politics/console.py"

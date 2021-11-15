@@ -1,0 +1,10 @@
+[general]
+accounts = None
+hashtags = None
+keywords = None
+start_date = None
+end_date = None
+
+[api]
+key = 1234
+secret = supersecret
